@@ -1,5 +1,12 @@
 # Post-Class 09 — Giải thích Exercise 4 và Exercise 6
 
+| Thông tin | Nội dung |
+|---|---|
+| Họ và tên | Huỳnh Ngọc Khang |
+| MSSV | 4651050116 |
+| Lớp | CNTT46D |
+| Bài | Giải thích Exercise 4 chương 4 và Exercise 6 chương 6 |
+
 Tài liệu này giải thích hai bài được giao trong Post-Class 09. Phần mã Java giải quyết Exercise 4 chương 4 và Exercise 6 chương 6. Các lớp nền `Card`, `Show`, `Movie`, `Concert` được đưa kèm trong project để có thể mở và biên dịch độc lập.
 
 ## Môi trường và cấu trúc
